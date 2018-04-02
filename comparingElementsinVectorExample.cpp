@@ -11,7 +11,7 @@ int main()
 
   cout << "the vectors size started with: " << a.size() << endl;
 
-  if(a.begin() == a.end())
+  if(a.at(0) == a.at(11))
   {
     cout << "first and last elements are the SAME" << endl;
   }
