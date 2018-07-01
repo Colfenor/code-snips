@@ -9,6 +9,7 @@ private:
   double v1_;
   double v2_;
   double v3_;
+  
 public:
   Vector() = default;
   Vector(double v1, double v2, double v3) : v1_(v1), v2_(v2), v3_(v3) {}
