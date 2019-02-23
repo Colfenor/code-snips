@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Prime number definition:
+// Prime number definition: 
 // a number is prime if it can be divided by itself
 // or by the number 1 without any remainder ! (The result of the division is 1)
 
