@@ -1,1 +1,1 @@
-### Various projects written in various languages
+### Various snippets written in various languages ;)
